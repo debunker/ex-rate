@@ -1,0 +1,7 @@
+{
+  "name": "amp to s3",
+  "version": "1.0.0",
+  "description": "Example to retrieve HTTP GET endpoint with python",
+  "author": "",
+  "license": ""
+}
